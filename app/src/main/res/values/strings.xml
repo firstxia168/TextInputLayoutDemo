@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextInputLayoutDemo</string>
+    <string name="error_name">用户名不能为空</string>
+    <string name="error_pwd">密码不能为空</string>
+</resources>
