@@ -21,6 +21,7 @@
             app:counterEnabled="true"
             app:counterMaxLength="5"
             app:counterOverflowTextAppearance="@style/MyOverflowText"
+            app:errorTextAppearance="@style/MyErrorStyle"
            >
 
             <EditText
@@ -38,6 +39,7 @@
             app:counterEnabled="true"
             app:counterMaxLength="5"
             app:counterOverflowTextAppearance="@style/MyOverflowText"
+            app:errorTextAppearance="@style/MyErrorStyle"
             >
 
             <EditText
